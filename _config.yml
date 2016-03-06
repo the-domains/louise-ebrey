@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.1937626
+  brandStrength: 0.8243728
+  lightness: 0.40681
+  brandColors:
+    - '#282820'
+    - '#B42730'
+    - '#E96539'
+    - '#549A88'
+    - '#FFE9E1'
+  rhythmicContrast: 0.4597661
+typography_spectrum: 0.2885305
+name: Louise Ebrey
