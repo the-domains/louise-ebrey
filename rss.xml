@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Louise Ebrey]]></title>
         <description><![CDATA[Louise Ebrey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/louise-ebrey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 17:52:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 17:52:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/louise-ebrey/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LinkedIn]]></title>
+            <description><![CDATA[<article><h1>LinkedIn</h1></article>]]></description>
+            <link>https://www.linkedin.com/m/profile/ACoAAABBGoIB5DPRvdGV4mpeOKTDQd-KyB9xykM/</link>
+            <guid isPermaLink="false">14379bd7-a86d-4090-bbc5-712a5faca526</guid>
+            <pubDate>Sun, 06 Mar 2016 17:52:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Security Check]]></title>
             <description><![CDATA[<article><h1>Security Check</h1></article>]]></description>
