@@ -1,3 +1,7 @@
+name: Louise Ebrey
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.2885305
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2885305
+title: Louise Ebrey
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6666667
-  brandStrength: 0.8243728
-  lightness: 0.5878136
   brandColors:
     - '#282820'
     - '#B42730'
     - '#E96539'
     - '#549A88'
     - '#FFE9E1'
+  brandStrength: 0.8243728
+  lightness: 0.5878136
+  saturation: 0.6666667
   rhythmicContrast: 0.5215054
-layout_spectrum: 1
-name: Louise Ebrey
+purpose: []
