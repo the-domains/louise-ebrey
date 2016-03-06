@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.2885305
 color:
-  saturation: 0.1937626
+  saturation: 0.6666667
   brandStrength: 0.8243728
-  lightness: 0.40681
+  lightness: 0.5878136
   brandColors:
     - '#282820'
     - '#B42730'
     - '#E96539'
     - '#549A88'
     - '#FFE9E1'
-  rhythmicContrast: 0.4597661
-typography_spectrum: 0.2885305
+  rhythmicContrast: 0.5215054
+layout_spectrum: 1
 name: Louise Ebrey
