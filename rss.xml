@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Louise Ebrey]]></title>
         <description><![CDATA[Louise Ebrey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/louise-ebrey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 19:50:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Mar 2016 19:51:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/louise-ebrey/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/edae3242-c817-433a-97a4-04f5e76ccd28.jpg">]]></description>
+            <link>https://thegrid.ai/louise-ebrey/08a1cca4-6444-444a-9a01-6885e7e631a7/index.html</link>
+            <guid isPermaLink="false">08a1cca4-6444-444a-9a01-6885e7e631a7</guid>
+            <pubDate>Sun, 06 Mar 2016 19:50:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c35442c9-e16b-4d02-b263-0b3e2788b449.jpg">]]></description>
-            <link>undefinedeverythingisbetterwithacupoftea/index.html</link>
+            <link>https://thegrid.ai/louise-ebrey/everythingisbetterwithacupoftea/index.html</link>
             <guid isPermaLink="false">1f28e01d-243f-495a-9d3f-03281f615234</guid>
             <pubDate>Sun, 06 Mar 2016 19:50:37 GMT</pubDate>
         </item>
